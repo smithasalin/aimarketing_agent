@@ -1,0 +1,10 @@
+
+#lead_data
+
+
+name,email,website_visits,email_opens,service_interest,converted
+John,john@example.com,10,5,High,1
+Mary,mary@example.com,4,2,Medium,0
+James,james@example.com,7,3,High,1
+Sophia,sophia@example.com,2,1,Low,0
+Mike,mike@example.com,5,4,Medium,1
