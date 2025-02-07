@@ -1,3 +1,4 @@
+from markupsafe import escape
 from flask import Flask, request, jsonify, escape
 import requests  # Import the requests module
 import pickle
