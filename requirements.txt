@@ -3,9 +3,4 @@ werkzeug==2.0.2
 requests==2.26.0
 pandas==1.1.5
 numpy==1.19.5
-"Flask==2.0.2"  "werkzeug==2.0.2"  "requests==2.26.0"  "pandas==1.1.5"  "numpy==1.19.5" 
-"Flask==2.0.2" 
-"werkzeug==2.0.2" 
-"requests==2.26.0" 
-"pandas==1.1.5" 
-"numpy==1.19.5" 
+
