@@ -1,10 +1,14 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, escape
 import requests  # Import the requests module
 import pickle
 import pandas as pd
 import sqlite3
 
 app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return jsonify(message="Hello, world!")
 
 # Load the trained model
 with open("lead_scoring_model.pkl", "rb") as file:
