@@ -1,11 +1,11 @@
 --only-binary :all:
-Flask==1.1.2
+Flask==1.0.4
 werkzeug==1.0.1
 requests==2.25.1
 pandas==2.2.2
 numpy==2.2.2
 setuptools==75.8.0
-jinja2==3.0.3
+jinja2==2.11.3
 
 
 
