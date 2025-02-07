@@ -5,5 +5,7 @@ requests==2.25.1
 pandas==2.2.2
 numpy==2.2.2
 setuptools==75.8.0
+jinja2==3.0.3
+
 
 
