@@ -1,8 +1,9 @@
-Flask==2.0.2
-werkzeug==2.0.2
-requests==2.26.0
+Flask==1.1.2
+werkzeug==1.0.1
+requests==2.25.1
 pandas==1.1.5
 numpy==1.19.5
-setuptools==60.9.3
+setuptools==49.6.0
+
 
 
