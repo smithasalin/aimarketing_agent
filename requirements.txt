@@ -3,6 +3,7 @@ Flask==1.1.2
 werkzeug==1.0.1
 requests==2.25.1
 pandas==2.2.2
-numpy==1.21.0
+numpy==2.2.2
 setuptools==75.8.0
+
 
